@@ -1,0 +1,14 @@
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\bin\Debug\net10.0\Class Method Assignment NS.exe
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\bin\Debug\net10.0\Class Method Assignment NS.deps.json
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\bin\Debug\net10.0\Class Method Assignment NS.runtimeconfig.json
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\bin\Debug\net10.0\Class Method Assignment NS.dll
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\bin\Debug\net10.0\Class Method Assignment NS.pdb
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\obj\Debug\net10.0\Class Method Assignment NS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\obj\Debug\net10.0\Class Method Assignment NS.AssemblyInfoInputs.cache
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\obj\Debug\net10.0\Class Method Assignment NS.AssemblyInfo.cs
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\obj\Debug\net10.0\Class Method Assignment NS.csproj.CoreCompileInputs.cache
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\obj\Debug\net10.0\Class Method Assignment NS.dll
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\obj\Debug\net10.0\refint\Class Method Assignment NS.dll
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\obj\Debug\net10.0\Class Method Assignment NS.pdb
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\obj\Debug\net10.0\Class Method Assignment NS.genruntimeconfig.cache
+C:\Users\Kaavi\OneDrive\Class Method Assignment NS\Class Method Assignment NS\obj\Debug\net10.0\ref\Class Method Assignment NS.dll
